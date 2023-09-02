@@ -1,11 +1,11 @@
-89a73d41984f9064a0b4d0de77f50560 *DESCRIPTION
+f0d080be1a6cc5d34f34be5a5f2b91ab *DESCRIPTION
 6d30eb8edeb3a1b1387b0a059d4cd8e5 *NAMESPACE
-1cabca273168074b4b5cb51f5b73b3e5 *NEWS.md
-ba87824dc6d8b3c1f759978eeba0fecb *R/mvgb.R
+4430d8c1eeb0822c05608bf1ee7003cb *NEWS.md
+10a78f44eed51593631053f248d8af8e *R/mvgb.R
 8c64a884dac7025034b7b45882ff2cca *R/pmvss.R
 dc73464e9aa43a3b05eaeb66e72c2772 *README.md
-2f486b87731711c80cfbbfe2333a7007 *man/mvgb.Rd
-ac48bd0639f8396d8343b056673faefa *man/pmvss.Rd
+7f7bde7eee9f6cc76b5cf680cad957b3 *man/mvgb.Rd
+0a16e1761f988e66c1cd15f50858b08f *man/pmvss.Rd
 abd395633aca0f5f5f849208c36ed5db *src/F77.c
 c1f73351d0c36a8232f6f358d57a39c8 *src/mvgb-init.c
 2a3a95d2506512ec9ed6d491fa22f478 *src/mvgb.h
